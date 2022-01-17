@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "NPC Generator",
+"productVersion": "0.1",
+"dataUrl": "NPC_Gen_Demo.data.unityweb",
+"wasmCodeUrl": "NPC_Gen_Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "NPC_Gen_Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.23f1"
+}
